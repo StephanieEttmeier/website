@@ -5,6 +5,7 @@ date = "2016-01-01"
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Ryan A. Hill" , "Marc H. Weber" , "Scott G. Leibowitz" , "Anthony R. Olsen" , "Darren J. Thornbrugh"]
 
+
 # Publication type.
 # Legend:
 # 0 = Uncategorized
@@ -17,7 +18,7 @@ authors = ["Ryan A. Hill" , "Marc H. Weber" , "Scott G. Leibowitz" , "Anthony R.
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of the American Water Resources Association*"
+publication = "*Journal of the American Water Resources Association* 52: 120-128"
 #publication_short = "In *JAWRA*"
 
 # Abstract and optional shortened version.
@@ -36,7 +37,7 @@ selected = true
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "https://onlinelibrary.wiley.com/doi/pdf/10.1111/1752-1688.12372"
+url_preprint = ""
 url_code = "https://github.com/USEPA/StreamCat"
 url_dataset = "https://www.epa.gov/national-aquatic-resource-surveys/streamcat"
 url_project = ""
@@ -47,7 +48,9 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{name = "Custom Link", url = "http://example.org"}]
+[[url_custom]]
+name = "Journal"
+url = "https://onlinelibrary.wiley.com/doi/pdf/10.1111/1752-1688.12372"
 
 # Does the content use math formatting?
 math = true
