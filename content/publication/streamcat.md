@@ -3,7 +3,7 @@ title = "The Stream-Catchment (StreamCat) Dataset: a database of watershed metri
 date = "2016-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ryan A. Hill" , "Marc H. Weber" , "Scott G. Leibowitz" , "Anthony R. Olsen" , "Darren J. Thornbrugh"]
+authors = ["**Ryan A. Hill**" , "Marc H. Weber" , "Scott G. Leibowitz" , "Anthony R. Olsen" , "Darren J. Thornbrugh"]
 
 
 # Publication type.
@@ -56,7 +56,7 @@ url = "https://onlinelibrary.wiley.com/doi/pdf/10.1111/1752-1688.12372"
 math = true
 
 # Does the content use source code highlighting?
-highlight = true
+highlight = false
   
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
