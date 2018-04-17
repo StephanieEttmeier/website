@@ -3,7 +3,7 @@ title = "The Stream-Catchment (StreamCat) Dataset: a database of watershed metri
 date = "2016-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ryan A. Hill" , "Marc H. Weber" , "Scott G. Leibowitz" , "Anthony R. Olsen" , "Darren J. Thornbrugh"]
+authors = ["**Ryan A. Hill**" , "Marc H. Weber" , "Scott G. Leibowitz" , "Anthony R. Olsen" , "Darren J. Thornbrugh"]
 
 
 # Publication type.

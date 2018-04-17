@@ -1,9 +1,9 @@
 +++
 title = "The Lake-Catchment (LakeCat) Dataset: characterizing landscape features for lake basins within the conterminous USA"
-date = "2018-19-04"
+date = "2018-04-19"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ryan A. Hill" , "Marc H. Weber" , "Rick M. Debbout" , "Scott G. Leibowitz" , "Anthony R. Olsen"]
+authors = ["**Ryan A. Hill**" , "Marc H. Weber" , "Rick M. Debbout" , "Scott G. Leibowitz" , "Anthony R. Olsen"]
 
 
 # Publication type.
