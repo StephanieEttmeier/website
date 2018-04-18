@@ -3,8 +3,8 @@ title = "Predicting thermal vulnerability of stream and river ecosystems to clim
 date = "2014-08-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Ryan A. Hill**" , "Charles P. Hawkins" , "Jiming Jin"]
 
+authors = ["**Ryan A. Hill**" , "Charles P. Hawkins" , "Jiming Jin"]
 
 # Publication type.
 # Legend:

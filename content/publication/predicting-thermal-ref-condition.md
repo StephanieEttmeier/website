@@ -18,7 +18,7 @@ authors = ["**Ryan A. Hill**" , "Charles P. Hawkins", "Daren M. Carlisle"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Freshwater Science* 32: 39-55"
+publication = "*Journal of the North American Benthological Society* 32: 39-55"
 #publication_short = "In *FWS*"
 
 # Abstract and optional shortened version.

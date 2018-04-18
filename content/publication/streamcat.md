@@ -56,7 +56,7 @@ url = "https://onlinelibrary.wiley.com/doi/pdf/10.1111/1752-1688.12372"
 math = true
 
 # Does the content use source code highlighting?
-highlight = true
+highlight = false
   
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
