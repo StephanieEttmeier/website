@@ -18,7 +18,7 @@ authors = ["Susan M. Cormier" , "Lei Zheng" , "**Ryan A. Hill**" , "Rachael M. N
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Science of the Total Environment* https://doi.org/10.1016/j.scitotenv.2018.01.137"
+publication = "*Science of the Total Environment* 633: 1647-1656 https://doi.org/10.1016/j.scitotenv.2018.01.137"
 #publication_short = ""
 
 # Abstract and optional shortened version.

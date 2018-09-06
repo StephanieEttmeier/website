@@ -18,7 +18,7 @@ authors = ["**Ryan A. Hill**" , "Marc H. Weber" , "Rick M. Debbout" , "Scott G. 
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Freshwater Science* 37: https://doi.org/10.1086/697966"
+publication = "*Freshwater Science* 37: 208-221 https://doi.org/10.1086/697966"
 #publication_short = "In *FWS*"
 
 # Abstract and optional shortened version.
