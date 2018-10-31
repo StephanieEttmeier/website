@@ -3,7 +3,7 @@ title = "Revising the index of watershed integrity national maps"
 date = "2018-10-10"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Z. C. Johnson" , "S. G. Leibowitz" , "**R. A. Hill**"]
+authors = ["Zach C. Johnson" , "Scott G. Leibowitz" , "**Ryan A. Hill**"]
 
 
 # Publication type.
