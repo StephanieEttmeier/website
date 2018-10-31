@@ -246,7 +246,7 @@ defaultContentLanguageInSubdir = false
   
 [[menu.main]]
   name = "CV"
-  url = "/cv/ryanhill_cv_september2018.pdf"
+  url = "/cv/ryanhill_cv_october2018.pdf"
   weight = 2
 
 
