@@ -10,9 +10,11 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Freshwater Ecology",
-    "Geospatial Analysis | Statistics | Machine Learning",
-    "Hydrology | Geomorphology | Temperature"
+    "Streams/Rivers | Lakes | Wetlands",
+    "Aquatic Ecology | Community & Landscape Ecology | Bioassessment",
+    "Environmental Change | Temperature | Geomorphology",
+    "Geospatial Analyses | Statistical Modeling and Machine Learning",
+    "Antibiotic Resistance | Harmful Algal Blooms"
   ]
 
 # List your qualifications (such as academic degrees).
